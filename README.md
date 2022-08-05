@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Marius Schneider, trained in physics and currently working on my PhD in Systems & Computational Neuroscience at the Ernst Struengmann Institute in Frankfurt am Main. 
+I'm Marius Schneider, trained in physics and currently working on my PhD in Systems & Computational Neuroscience at the Ernst Strüngmann Institute in Frankfurt am Main. 
 
 
 <!--
