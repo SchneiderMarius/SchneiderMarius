@@ -1,4 +1,6 @@
 ### Hi there 👋
+Hello!
+I'm Marius Schneider, a trained physicist working on my PhD in Systems & Computational Neuroscience at the Ernst Struengmann Institute in Frankfurt am Main. 
 
 <!--
 **SchneiderMarius/SchneiderMarius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
